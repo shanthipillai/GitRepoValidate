@@ -1,0 +1,2 @@
+This file is created by developer2 to test the merge 
+conflicts. 
